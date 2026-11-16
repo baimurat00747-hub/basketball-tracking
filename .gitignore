@@ -1,0 +1,17 @@
+data/
+output/
+models/
+*.pt
+.ipynb_checkpoints/
+
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+
+# Разведочные/временные файлы (регенерируются ноутбуками)
+scratch_*/
+
+# Пользовательские папки-бэкапы и веса вне models/
+/1/
+/2/
